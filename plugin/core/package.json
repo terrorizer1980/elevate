@@ -30,7 +30,7 @@
 	"readme": "None",
 	"dependencies": {
 		"@elevate/shared": "file:../app/modules/shared/",
-		"chart.js": "^2.7.3",
+		"chart.js": "^2.9.4",
 		"fancybox": "^3.0.1",
 		"file-saver": "^2.0.0-rc.4",
 		"geodesy": "^1.1.3",
